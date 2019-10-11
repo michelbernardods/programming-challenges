@@ -47,10 +47,6 @@ https://www.hirevue.com/
 https://tausiq.wordpress.com/
 
 
--> CODE SIGNAL
-https://app.codesignal.com/
-
-
 -> CODE GAMES AND PROGRAMMING 
 https://www.codingame.com/
 
@@ -87,7 +83,7 @@ https://coderbyte.com/
 https://www.codechef.com/
 
 
--> DALY CODIN PROBLEM 
+-> DALY CODING PROBLEM 
 https://www.dailycodingproblem.com/
 
 
