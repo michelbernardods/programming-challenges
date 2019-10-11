@@ -21,10 +21,6 @@ https://desafiodocodigo.com.br/
 https://osprogramadores.com
 
 
--> PROGRAMMING TUTORIALS 
-https://www.hackerearth.com/pt-br
-
-
 -> URI ONLINE JUDGE
 https://www.urionlinejudge.com.br
 
@@ -51,7 +47,7 @@ https://tausiq.wordpress.com/
 https://www.codingame.com/
 
 
--> CODE TEST AND ASSESSMENTS
+-> CODE SIGNAL
 https://codesignal.com/
 
 
@@ -105,10 +101,6 @@ https://leetcode.com/
 
 -> ONLINE JUDGE
 https://code.fandom.com
-
-
--> PROGRAMMING TUTORIALS 
-https://www.hackerearth.com/pt-br
 
 
 -> PROJECT EULER
