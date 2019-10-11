@@ -59,7 +59,7 @@ https://www.codingame.com/
 https://codesignal.com/
 
 
-->CODE FORCES
+-> CODE FORCES
 http://codeforces.com/
 
 
@@ -131,9 +131,17 @@ https://www.topcoder.com/
 https://www.spoj.com/
 
 
+-> FRONT END MENTOR
+https://www.frontendmentor.io/challenges
+
+
+-> THE HUXLEY
+https://www.thehuxley.com
+
+
+-> CODE ACADEMY
+https://www.codecademy.com/
 
 
 
 =========================================================
-
-
