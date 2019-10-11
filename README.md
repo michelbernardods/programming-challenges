@@ -39,8 +39,8 @@ INGLÊS
 
 
 
-->ASSESSMENTS | HIRE VUE
-https://www.hirevue.com
+-> ASSESSMENTS | HIRE VUE
+https://www.hirevue.com/
 
 
 -> BEGINNER PROBLEMS
@@ -51,7 +51,7 @@ https://tausiq.wordpress.com/
 https://app.codesignal.com/
 
 
--> CODE GAMES  AND PROGRAMMING 
+-> CODE GAMES AND PROGRAMMING 
 https://www.codingame.com/
 
 
@@ -131,8 +131,6 @@ https://www.topcoder.com/
 https://www.spoj.com/
 
 
--> TOP CODER
-https://www.topcoder.com/
 
 
 
