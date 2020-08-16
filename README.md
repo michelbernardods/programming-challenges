@@ -2,6 +2,8 @@
 
 
       Desafios de programação e competições para aperfeiçoar o conhecimento.
+      
+      Programming challenges and competitions to improve knowledge.
 
 
 
