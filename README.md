@@ -14,7 +14,6 @@ PORTUGUESE
 ```
 
 
-=========================================================
 
 -> BRAVI
 http://blog.bravi.com.br
@@ -47,7 +46,7 @@ https://www.hackerearth.com/pt-br/
 ENGLISH
 ```
 
-=========================================================
+
 
 ->ASSESSMENTS | HIRE VUE
 https://www.hirevue.com
