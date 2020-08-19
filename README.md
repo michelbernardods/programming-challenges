@@ -6,8 +6,10 @@
       Programming challenges and competitions to improve knowledge.
 
 
-
+```
 PORTUGUESE
+```
+
 
 =========================================================
 
@@ -37,8 +39,10 @@ https://www.hackerearth.com/pt-br/
 ======================================
 
 
-ENGLISH
 
+```
+ENGLISH
+```
 
 
 ->ASSESSMENTS | HIRE VUE
