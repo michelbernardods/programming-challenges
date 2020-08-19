@@ -20,7 +20,7 @@ http://blog.bravi.com.br
 
 
 -> DESAFIOS DO CÓDIGO 
-https://desafiodocodigo.com.br/
+https://desafiodocodigo.com.br
 
 
 -> OS PROGRAMADORES
@@ -32,11 +32,11 @@ https://www.hackerearth.com/pt-br
 
 
 -> URI ONLINE JUDGE
-https://www.urionlinejudge.com.br
+https://www.urionlinejudge.com.b
 
 
 -> HACKEREARTH
-https://www.hackerearth.com/pt-br/
+https://www.hackerearth.com/pt-br
 
 ======================================
 
@@ -46,6 +46,8 @@ https://www.hackerearth.com/pt-br/
 ENGLISH
 ```
 
+-> HACKER RANK
+https://www.hackerrank.com
 
 
 ->ASSESSMENTS | HIRE VUE
@@ -53,35 +55,35 @@ https://www.hirevue.com
 
 
 -> BEGINNER PROBLEMS
-https://tausiq.wordpress.com/
+https://tausiq.wordpress.com
 
 
 -> CODE SIGNAL
-https://app.codesignal.com/
+https://app.codesignal.com
 
 
 -> CODE GAMES  AND PROGRAMMING 
-https://www.codingame.com/
+https://www.codingame.com
 
 
 -> CODE TEST AND ASSESSMENTS
-https://codesignal.com/
+https://codesignal.com
 
 
 ->CODE FORCES
-http://codeforces.com/
+http://codeforces.com
 
 
 -> CODEWARS 
-https://www.codewars.com/
+https://www.codewars.com
 
 
 -> CODERWALL
-https://coderwall.com/
+https://coderwall.com
 
 
 -> CODE AVENGERS
-https://www.codeavengers.com/
+https://www.codeavengers.com
 
 
 -> CODING BAT 
@@ -89,31 +91,27 @@ https://codingbat.com/java
 
 
 -> CODDER BYTE 
-https://coderbyte.com/
+https://coderbyte.com
 
 
 -> CODE CHEF
-https://www.codechef.com/
+https://www.codechef.com
 
 
 -> DALY CODIN PROBLEM 
-https://www.dailycodingproblem.com/
+https://www.dailycodingproblem.com
 
 
 -> EDUCATION COLSYSTEM
-https://www.education-ecosystem.com/
+https://www.education-ecosystem.com
 
 
 -> GEEKS FOR GEEKS
-https://www.geeksforgeeks.org/
-
-
--> HACKER RANK
-https://www.hackerrank.com
+https://www.geeksforgeeks.org
 
 
 -> LEET CODE
-https://leetcode.com/
+https://leetcode.com
 
 
 -> ONLINE JUDGE
@@ -125,26 +123,62 @@ https://www.hackerearth.com/pt-br
 
 
 -> PROJECT EULER
-https://projecteuler.net/
+https://projecteuler.net
 
 
 -> PRROGRAMMING CHALLENGES
-https://ryanstutorials.net/programming-challenges/
+https://ryanstutorials.net/programming-challenges
 
 
 -> TOP CODER
-https://www.topcoder.com/
+https://www.topcoder.com
 
 
 -> SPHERE ONLINE JUDGE (SPOJ)
-https://www.spoj.com/
+https://www.spoj.com
 
 
--> TOP CODER
-https://www.topcoder.com/
+-> EDABIT
+https://edabit.com/challenges
 
+
+-> CODERBYTE
+https://www.coderbyte.com
+
+
+-> EXERCISM
+https://exercism.io
+
+
+-> CODEWARS
+https://www.codewars.com
+
+
+-> LEETCODE
+https://leetcode.com
+
+
+-> SPOJ
+https://www.spoj.com
+
+
+-> CODINGAME
+https://www.codingame.com
+
+
+-> FREECODECAMP
+https://www.freecodecamp.org
+
+
+-> CODE FORCES
+https://codeforces.com
+
+
+-> GEEKS FOR GEEKS
+https://www.geeksforgeeks.org
 
 
 =========================================================
+
 
 
