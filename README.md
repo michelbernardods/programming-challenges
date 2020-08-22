@@ -23,6 +23,10 @@ http://blog.bravi.com.br
 https://desafiodocodigo.com.br
 
 
+-> HACKEREARTH
+https://www.hackerearth.com/pt-br
+
+
 -> OS PROGRAMADORES
 https://osprogramadores.com
 
@@ -35,8 +39,7 @@ https://www.hackerearth.com/pt-br
 https://www.urionlinejudge.com.b
 
 
--> HACKEREARTH
-https://www.hackerearth.com/pt-br
+
 
 ======================================
 
