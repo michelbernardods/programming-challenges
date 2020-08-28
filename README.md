@@ -65,10 +65,6 @@ https://tausiq.wordpress.com
 https://app.codesignal.com
 
 
--> CODE GAMES  AND PROGRAMMING 
-https://www.codingame.com
-
-
 -> CODE TEST AND ASSESSMENTS
 https://codesignal.com
 
