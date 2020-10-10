@@ -176,6 +176,8 @@ https://codeforces.com
 -> GEEKS FOR GEEKS
 https://www.geeksforgeeks.org
 
+-> EXERCISM
+https://exercism.io
 
 =========================================================
 
