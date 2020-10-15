@@ -38,9 +38,6 @@ https://www.hackerearth.com/pt-br
 -> URI ONLINE JUDGE
 https://www.urionlinejudge.com.b
 
-
-
-
 ======================================
 
 
@@ -48,10 +45,6 @@ https://www.urionlinejudge.com.b
 ```
 ENGLISH
 ```
-
--> HACKER RANK
-https://www.hackerrank.com
-
 
 ->ASSESSMENTS | HIRE VUE
 https://www.hirevue.com
@@ -69,7 +62,7 @@ https://app.codesignal.com
 https://codesignal.com
 
 
-->CODE FORCES
+-> CODE FORCES
 http://codeforces.com
 
 
@@ -97,6 +90,22 @@ https://coderbyte.com
 https://www.codechef.com
 
 
+-> CODERBYTE
+https://www.coderbyte.com
+
+
+-> CODEWARS
+https://www.codewars.com
+
+
+-> CODINGAME
+https://www.codingame.com
+
+
+-> CODE FORCES
+https://codeforces.com
+
+
 -> DALY CODIN PROBLEM 
 https://www.dailycodingproblem.com
 
@@ -105,8 +114,24 @@ https://www.dailycodingproblem.com
 https://www.education-ecosystem.com
 
 
+-> EXERCISM
+https://exercism.io
+
+
+-> EDABIT
+https://edabit.com/challenges
+
+
+-> FREECODECAMP
+https://www.freecodecamp.org
+
+
 -> GEEKS FOR GEEKS
 https://www.geeksforgeeks.org
+
+
+-> HACKER RANK
+https://www.hackerrank.com
 
 
 -> LEET CODE
@@ -129,57 +154,15 @@ https://projecteuler.net
 https://ryanstutorials.net/programming-challenges
 
 
--> TOP CODER
-https://www.topcoder.com
-
-
 -> SPHERE ONLINE JUDGE (SPOJ)
 https://www.spoj.com
-
-
--> EDABIT
-https://edabit.com/challenges
-
-
--> CODERBYTE
-https://www.coderbyte.com
-
-
--> EXERCISM
-https://exercism.io
-
-
--> CODEWARS
-https://www.codewars.com
-
-
--> LEETCODE
-https://leetcode.com
 
 
 -> SPOJ
 https://www.spoj.com
 
 
--> CODINGAME
-https://www.codingame.com
-
-
--> FREECODECAMP
-https://www.freecodecamp.org
-
-
--> CODE FORCES
-https://codeforces.com
-
-
--> GEEKS FOR GEEKS
-https://www.geeksforgeeks.org
-
--> EXERCISM
-https://exercism.io
+-> TOP CODER
+https://www.topcoder.com
 
 =========================================================
-
-
-
