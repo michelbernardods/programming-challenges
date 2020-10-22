@@ -15,27 +15,27 @@ PORTUGUESE
 
 
 
--> BRAVI
+-> BRAVI - 
 http://blog.bravi.com.br
 
 
--> DESAFIOS DO CÓDIGO 
+-> DESAFIOS DO CÓDIGO - 
 https://desafiodocodigo.com.br
 
 
--> HACKEREARTH
+-> HACKEREARTH - 
 https://www.hackerearth.com/pt-br
 
 
--> OS PROGRAMADORES
+-> OS PROGRAMADORES - 
 https://osprogramadores.com
 
 
--> PROGRAMMING TUTORIALS 
+-> PROGRAMMING TUTORIALS - 
 https://www.hackerearth.com/pt-br
 
 
--> URI ONLINE JUDGE
+-> URI ONLINE JUDGE - 
 https://www.urionlinejudge.com.b
 
 ======================================
@@ -46,126 +46,127 @@ https://www.urionlinejudge.com.b
 ENGLISH
 ```
 
--> ASSESSMENTS | HIRE VUE
+-> ASSESSMENTS | HIRE VUE - 
 https://www.hirevue.com
 
 
--> BEGINNER PROBLEMS
+-> BEGINNER PROBLEMS -
 https://tausiq.wordpress.com
 
 
--> CODE SIGNAL
+-> CODE SIGNAL -
 https://app.codesignal.com
 
 
--> CODE TEST AND ASSESSMENTS
+-> CODE TEST AND ASSESSMENTS -
 https://codesignal.com
 
 
--> CODE FORCES
+-> CODE FORCES -
 http://codeforces.com
 
 
--> CODEWARS 
+-> CODEWARS -
 https://www.codewars.com
 
 
--> CODERWALL
+-> CODERWALL -
 https://coderwall.com
 
 
--> CODE AVENGERS
+-> CODE AVENGERS -
 https://www.codeavengers.com
 
 
--> CODING BAT 
+-> CODING BAT -
 https://codingbat.com/java
 
 
--> CODDER BYTE 
+-> CODDER BYTE -
 https://coderbyte.com
 
 
--> CODE CHEF
+-> CODE CHEF -
 https://www.codechef.com
 
 
--> CODERBYTE
+-> CODERBYTE -
 https://www.coderbyte.com
 
 
--> CODEWARS
+-> CODEWARS -
 https://www.codewars.com
 
 
--> CODINGAME
+-> CODINGAME -
 https://www.codingame.com
 
 
--> CODE FORCES
+-> CODE FORCES -
 https://codeforces.com
 
 
--> DALY CODIN PROBLEM 
+-> DALY CODIN PROBLEM -
 https://www.dailycodingproblem.com
 
 
--> EDUCATION COLSYSTEM
+-> EDUCATION COLSYSTEM -
 https://www.education-ecosystem.com
 
 
--> EXERCISM
+-> EXERCISM -
 https://exercism.io
 
 
--> EDABIT
+-> EDABIT -
 https://edabit.com/challenges
 
 
--> FREECODECAMP
+-> FREECODECAMP -
 https://www.freecodecamp.org
 
 
--> GEEKS FOR GEEKS
+-> GEEKS FOR GEEKS -
 https://www.geeksforgeeks.org
 
 
--> HACKER RANK
+-> HACKER RANK -
 https://www.hackerrank.com
 
--> JS CHALLENGER
+
+-> JS CHALLENGER -
 https://www.jschallenger.com
 
 
--> LEET CODE
+-> LEET CODE -
 https://leetcode.com
 
 
--> ONLINE JUDGE
+-> ONLINE JUDGE -
 https://code.fandom.com
 
 
--> PROGRAMMING TUTORIALS 
+-> PROGRAMMING TUTORIALS -
 https://www.hackerearth.com/pt-br
 
 
--> PROJECT EULER
+-> PROJECT EULER -
 https://projecteuler.net
 
 
--> PRROGRAMMING CHALLENGES
+-> PRROGRAMMING CHALLENGES -
 https://ryanstutorials.net/programming-challenges
 
 
--> SPHERE ONLINE JUDGE (SPOJ)
+-> SPHERE ONLINE JUDGE (SPOJ) -
 https://www.spoj.com
 
 
--> SPOJ
+-> SPOJ -
 https://www.spoj.com
 
 
--> TOP CODER
+-> TOP CODER -
 https://www.topcoder.com
 
 =========================================================
