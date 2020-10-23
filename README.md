@@ -154,10 +154,6 @@ https://projecteuler.net
 https://ryanstutorials.net/programming-challenges
 
 
--> SPHERE ONLINE JUDGE (SPOJ) -
-https://www.spoj.com
-
-
 -> SPOJ -
 https://www.spoj.com
 
