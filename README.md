@@ -58,10 +58,6 @@ https://tausiq.wordpress.com
 https://app.codesignal.com
 
 
--> CODE TEST AND ASSESSMENTS -
-https://codesignal.com
-
-
 -> CODE FORCES -
 http://codeforces.com
 
