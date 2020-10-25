@@ -36,7 +36,7 @@ https://www.hackerearth.com/pt-br
 
 
 -> URI ONLINE JUDGE - 
-https://www.urionlinejudge.com.b
+https://www.urionlinejudge.com.br
 
 ======================================
 
