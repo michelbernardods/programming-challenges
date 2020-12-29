@@ -104,10 +104,6 @@ https://www.codingame.com
 https://codeforces.com
 
 
--> CSS BATTLE
-https://cssbattle.dev
-
-
 -> DALY CODIN PROBLEM -
 https://www.dailycodingproblem.com
 
