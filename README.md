@@ -1,4 +1,8 @@
-# programming-challenges
+
+<h1 align="center">
+    ☕ Programming Challenges
+</h1>
+
 
       Programming challenges and competitions to improve knowledge.
       
