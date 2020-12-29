@@ -7,8 +7,8 @@
 
 =========================================================
 
-BACKEND CHALLENGES: 
+BACKEND CHALLENGES: [HERE](BACKEND-CHALLENGES.md)
 
-FRONTEND CHALLENGES: 
+FRONTEND CHALLENGES: [HERE](FRONTEND-CHALLENGES.md)
 
 
