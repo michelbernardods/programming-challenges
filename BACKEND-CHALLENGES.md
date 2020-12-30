@@ -47,6 +47,11 @@ https://tausiq.wordpress.com
 -> BUTUNCLEBOB
 http://butunclebob.com/
 
+
+-> CODE SIGNAL
+https://app.codesignal.com/login
+
+
 -> CODE SIGNAL -
 https://app.codesignal.com
 
@@ -103,6 +108,10 @@ https://codingdojo.org/
 http://codekata.com/
 
 
+-> CYBER DOJO
+https://cyber-dojo.org/creator/home
+
+
 -> DALY CODIN PROBLEM -
 https://www.dailycodingproblem.com
 
@@ -139,8 +148,16 @@ https://www.hackerrank.com
 https://www.jschallenger.com
 
 
+-> JAVASCRIPT 30
+https://javascript30.com/
+
+
 -> KATAS CODE
 https://katas.softwarecraftsmanship.org/
+
+
+-> KATA LOG ROCKS
+https://kata-log.rocks/
 
 
 -> LEET CODE -
@@ -161,6 +178,10 @@ https://projecteuler.net
 
 -> PRROGRAMMING CHALLENGES -
 https://ryanstutorials.net/programming-challenges
+
+
+-> SILENT TEACHER
+http://silentteacher.toxicode.fr/
 
 
 -> SPOJ -
