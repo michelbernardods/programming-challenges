@@ -6,7 +6,7 @@ PORTUGUESE
 -> BRAVI - 
 http://blog.bravi.com.br
 
--> DEVCHALLENGE
+-> DEVCHALLENGE -
 https://devchallenge.now.sh/challenges
 
 -> DESAFIOS DO CÓDIGO - 
@@ -44,11 +44,11 @@ https://www.hirevue.com
 https://tausiq.wordpress.com
 
 
--> BUTUNCLEBOB
+-> BUTUNCLEBOB -
 http://butunclebob.com/
 
 
--> CODE SIGNAL
+-> CODE SIGNAL -
 https://app.codesignal.com/login
 
 
@@ -100,15 +100,15 @@ https://www.codingame.com
 https://codeforces.com
 
 
--> CODING DOJO
+-> CODING DOJO -
 https://codingdojo.org/
 
 
--> CODE KATA
+-> CODE KATA -
 http://codekata.com/
 
 
--> CYBER DOJO
+-> CYBER DOJO -
 https://cyber-dojo.org/creator/home
 
 
@@ -136,7 +136,7 @@ https://www.freecodecamp.org
 https://www.geeksforgeeks.org
 
 
--> GUVI
+-> GUVI -
 https://www.guvi.in/
 
 
@@ -148,15 +148,15 @@ https://www.hackerrank.com
 https://www.jschallenger.com
 
 
--> JAVASCRIPT 30
+-> JAVASCRIPT 30 -
 https://javascript30.com/
 
 
--> KATAS CODE
+-> KATAS CODE -
 https://katas.softwarecraftsmanship.org/
 
 
--> KATA LOG ROCKS
+-> KATA LOG ROCKS -
 https://kata-log.rocks/
 
 
@@ -180,7 +180,7 @@ https://projecteuler.net
 https://ryanstutorials.net/programming-challenges
 
 
--> SILENT TEACHER
+-> SILENT TEACHER -
 http://silentteacher.toxicode.fr/
 
 
