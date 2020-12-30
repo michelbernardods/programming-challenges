@@ -33,6 +33,18 @@ https://dribbble.com
 https://www.dailyui.co/
 
 
+-> DEV CHALLENGES
+https://devchallenges.io/
+
+
+-> FLEXBOX DEFENSE
+http://www.flexboxdefense.com/
+
+
+-> FLEXBOX ZOMBIES
+https://mastery.games/
+
+
 -> FRONTEND MENTOR
 https://www.frontendmentor.io
 
@@ -40,8 +52,25 @@ https://www.frontendmentor.io
 -> FRONTEND LOOPS
 https://frontloops.io/
 
+
+-> FLUKEOUT
+https://flukeout.github.io/
+
+
+-> JAVASCRIPT 30
+https://javascript30.com/
+
+
+-> LAB REAAL
+https://lab.reaal.me/
+
+
 -> PICCALIL
 https://piccalil.li
+
+
+-> SILENT TEACHER
+http://silentteacher.toxicode.fr/
 
 
 -> 100 DAYS CSS
