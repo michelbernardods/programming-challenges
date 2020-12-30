@@ -6,74 +6,74 @@ ENGLISH
 =========================================================
 
 
--> ACE FRONTEND
+-> ACE FRONTEND - 
 https://www.acefrontend.com/
 
 
--> CSS BATTLE
+-> CSS BATTLE -
 https://cssbattle.dev
 
 
--> CODE PEN
+-> CODE PEN -
 https://codepen.io/challenges/
 
 
--> CODIER
+-> CODIER -
 https://codier.io/
 
--> CSS TRICKS
+-> CSS TRICKS -
 https://css-tricks.com/front-end-challenges
 
 
--> DRIBBBLE
+-> DRIBBBLE -
 https://dribbble.com
 
 
--> DAILY UI
+-> DAILY UI -
 https://www.dailyui.co/
 
 
--> DEV CHALLENGES
+-> DEV CHALLENGES -
 https://devchallenges.io/
 
 
--> FLEXBOX DEFENSE
+-> FLEXBOX DEFENSE -
 http://www.flexboxdefense.com/
 
 
--> FLEXBOX ZOMBIES
+-> FLEXBOX ZOMBIES -
 https://mastery.games/
 
 
--> FRONTEND MENTOR
+-> FRONTEND MENTOR -
 https://www.frontendmentor.io
 
 
--> FRONTEND LOOPS
+-> FRONTEND LOOPS -
 https://frontloops.io/
 
 
--> FLUKEOUT
+-> FLUKEOUT -
 https://flukeout.github.io/
 
 
--> JAVASCRIPT 30
+-> JAVASCRIPT 30 -
 https://javascript30.com/
 
 
--> LAB REAAL
+-> LAB REAAL -
 https://lab.reaal.me/
 
 
--> PICCALIL
+-> PICCALIL -
 https://piccalil.li
 
 
--> SILENT TEACHER
+-> SILENT TEACHER -
 http://silentteacher.toxicode.fr/
 
 
--> 100 DAYS CSS
+-> 100 DAYS CSS -
 https://100dayscss.com
 
 
