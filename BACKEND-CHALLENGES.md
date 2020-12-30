@@ -44,6 +44,9 @@ https://www.hirevue.com
 https://tausiq.wordpress.com
 
 
+-> BUTUNCLEBOB
+http://butunclebob.com/
+
 -> CODE SIGNAL -
 https://app.codesignal.com
 
@@ -96,6 +99,10 @@ https://codeforces.com
 https://codingdojo.org/
 
 
+-> CODE KATA
+http://codekata.com/
+
+
 -> DALY CODIN PROBLEM -
 https://www.dailycodingproblem.com
 
@@ -120,12 +127,20 @@ https://www.freecodecamp.org
 https://www.geeksforgeeks.org
 
 
+-> GUVI
+https://www.guvi.in/
+
+
 -> HACKER RANK -
 https://www.hackerrank.com
 
 
 -> JS CHALLENGER -
 https://www.jschallenger.com
+
+
+-> KATAS CODE
+https://katas.softwarecraftsmanship.org/
 
 
 -> LEET CODE -
