@@ -1,5 +1,10 @@
 
 <h1 align="center">
+    <img alt="Banner Code" src="https://github.com/michelbernardods/programming-challenges/blob/master/img/banner.jpeg"  />
+</h1>
+
+
+<h1 align="center">
     ☕ Programming Challenges
 </h1>
 
