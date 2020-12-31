@@ -17,11 +17,11 @@
 =========================================================
 
 
- #### -> [BACKEND CHALLENGES](BACKEND-CHALLENGES.md)
+ #### -> [BACKEND CHALLENGES](./CHALLENGES/BACKEND-CHALLENGES.md)
 
- #### -> [FRONTEND CHALLENGES](FRONTEND-CHALLENGES.md)
+ #### -> [FRONTEND CHALLENGES](./CHALLENGES/FRONTEND-CHALLENGES.md)
  
- #### -> [PENTEST CHALLENGES](PENTEST-CHALLENGES.md)
+ #### -> [PENTEST CHALLENGES](./CHALLENGES/PENTEST-CHALLENGES.md)
 
 
 =========================================================
