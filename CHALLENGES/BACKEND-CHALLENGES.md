@@ -101,11 +101,11 @@ https://codeforces.com
 
 
 -> CODING DOJO -
-https://codingdojo.org/
+https://codingdojo.org
 
 
 -> CODE KATA -
-http://codekata.com/
+http://codekata.com
 
 
 -> CYBER DOJO -
@@ -137,7 +137,7 @@ https://www.geeksforgeeks.org
 
 
 -> GUVI -
-https://www.guvi.in/
+https://www.guvi.in
 
 
 -> HACKER RANK -
@@ -149,15 +149,15 @@ https://www.jschallenger.com
 
 
 -> JAVASCRIPT 30 -
-https://javascript30.com/
+https://javascript30.com
 
 
 -> KATAS CODE -
-https://katas.softwarecraftsmanship.org/
+https://katas.softwarecraftsmanship.org
 
 
 -> KATA LOG ROCKS -
-https://kata-log.rocks/
+https://kata-log.rocks
 
 
 -> LEET CODE -
@@ -181,7 +181,7 @@ https://ryanstutorials.net/programming-challenges
 
 
 -> SILENT TEACHER -
-http://silentteacher.toxicode.fr/
+http://silentteacher.toxicode.fr
 
 
 -> SPOJ -
