@@ -9,9 +9,9 @@
 </h1>
 
 
-      Programming challenges and competitions to improve knowledge.
+      Backend, frontend and pentest programming challenges and competitions to improve knowledge.
       
-      Desafios de programação e competições para aperfeiçoar o conhecimento.
+      Desafios de programação de backend, frontend e pentest e competições para aprimorar o conhecimento.
       
 
 =========================================================
@@ -22,6 +22,7 @@
 
 
 =========================================================
+
 
 # How to contribute ?
 
