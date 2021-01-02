@@ -14,17 +14,18 @@
       Desafios de programação de backend, frontend e pentest e competições para aprimorar o conhecimento.
       
 
-=========================================================
+=====================================================================================================
 
    
 >>>>> ### [BACKEND CHALLENGES](./CHALLENGES/BACKEND-CHALLENGES.md) | [FRONTEND CHALLENGES](./CHALLENGES/FRONTEND-CHALLENGES.md) | [PENTEST CHALLENGES](./CHALLENGES/PENTEST-CHALLENGES.md) 
 
 
 
-=========================================================
+=====================================================================================================
 
 
-# How to contribute ?
+
+## How to contribute ?
 
 This is a totally free project that accepts contributions via pull requests on GitHub. This document is responsible for aligning contributions in accordance with established standards.
 
