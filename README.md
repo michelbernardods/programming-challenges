@@ -14,14 +14,14 @@
       Desafios de programação de backend, frontend e pentest e competições para aprimorar o conhecimento.
       
 
-=========================================================================================
+========================================================================================
 
    
 >>>>> ### [BACKEND CHALLENGES](./CHALLENGES/BACKEND-CHALLENGES.md) | [FRONTEND CHALLENGES](./CHALLENGES/FRONTEND-CHALLENGES.md) | [PENTEST CHALLENGES](./CHALLENGES/PENTEST-CHALLENGES.md) 
 
 
 
-==========================================================================================
+=========================================================================================
 
 
 
