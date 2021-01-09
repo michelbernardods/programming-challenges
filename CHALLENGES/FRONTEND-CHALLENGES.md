@@ -53,6 +53,10 @@ https://www.frontendmentor.io
 https://frontloops.io
 
 
+-> FRONTEND CHALLENGES
+https://github.com/felipefialho/frontend-challenges
+
+
 -> FLUKEOUT -
 https://flukeout.github.io
 
