@@ -25,7 +25,7 @@ https://osprogramadores.com
 
 
 -> PROGRAMMING TUTORIALS - 
-https://www.hackerearth.com/pt-br
+https://www.hackerearth.com
 
 
 -> URI ONLINE JUDGE - 
@@ -43,12 +43,16 @@ ENGLISH
 https://www.hirevue.com
 
 
+-> ALGO EXPERT
+https://www.algoexpert.io
+
+
 -> BEGINNER PROBLEMS -
 https://tausiq.wordpress.com
 
 
 -> BUTUNCLEBOB -
-http://butunclebob.com/
+http://butunclebob.com
 
 
 -> CODE SIGNAL -
@@ -171,8 +175,12 @@ https://leetcode.com
 https://code.fandom.com
 
 
+-> PRAMP
+https://www.pramp.com
+
+
 -> PROGRAMMING TUTORIALS -
-https://www.hackerearth.com/pt-br
+https://www.hackerearth.com
 
 
 -> PROJECT EULER -
@@ -181,6 +189,10 @@ https://projecteuler.net
 
 -> PRROGRAMMING CHALLENGES -
 https://ryanstutorials.net/programming-challenges
+
+
+-> PM EXERCICES
+https://www.productmanagementexercises.com
 
 
 -> SILENT TEACHER -
