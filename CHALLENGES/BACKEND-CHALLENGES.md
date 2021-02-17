@@ -203,6 +203,9 @@ http://silentteacher.toxicode.fr
 https://www.spoj.com
 
 
+-> TYPESCRIPT EXERCICES
+https://typescript-exercises.github.io/
+
 -> TOP CODER -
 https://www.topcoder.com
 
