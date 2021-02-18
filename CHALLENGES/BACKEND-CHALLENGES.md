@@ -39,12 +39,12 @@ https://www.urionlinejudge.com.br
 ENGLISH
 ```
 
--> ASSESSMENTS | HIRE VUE - 
-https://www.hirevue.com
-
-
 -> ALGO EXPERT
 https://www.algoexpert.io
+
+
+-> ASSESSMENTS | HIRE VUE - 
+https://www.hirevue.com
 
 
 -> BEGINNER PROBLEMS -
