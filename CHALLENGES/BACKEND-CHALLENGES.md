@@ -6,11 +6,14 @@ PORTUGUESE
 -> BRAVI - 
 http://blog.bravi.com.br
 
+
 -> DEVCHALLENGE -
 https://devchallenge.now.sh/challenges
 
+
 -> DESAFIOS DO CÓDIGO - 
 https://desafiodocodigo.com.br
+
 
 -> DESAFIO 333 - 
 https://github.com/codigofalado/desafio333
@@ -26,6 +29,10 @@ https://osprogramadores.com
 
 -> PROGRAMMING TUTORIALS - 
 https://www.hackerearth.com
+
+
+-> SPHERE ONLINE JUDGE
+https://br.spoj.com
 
 
 -> URI ONLINE JUDGE - 
@@ -93,6 +100,10 @@ https://www.codechef.com
 
 -> CODERBYTE -
 https://www.coderbyte.com
+
+
+-> CODESIGNAL
+https://codesignal.com
 
 
 -> CODEWARS -
