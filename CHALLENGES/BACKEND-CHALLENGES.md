@@ -27,10 +27,6 @@ https://www.hackerearth.com/pt-br
 https://osprogramadores.com
 
 
--> PROGRAMMING TUTORIALS - 
-https://www.hackerearth.com
-
-
 -> SPHERE ONLINE JUDGE
 https://br.spoj.com
 
