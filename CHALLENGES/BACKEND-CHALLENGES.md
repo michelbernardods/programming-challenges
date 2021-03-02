@@ -62,14 +62,6 @@ https://tausiq.wordpress.com
 http://butunclebob.com
 
 
--> CODE SIGNAL -
-https://app.codesignal.com/login
-
-
--> CODE SIGNAL -
-https://app.codesignal.com
-
-
 -> CODE FORCES -
 http://codeforces.com
 
