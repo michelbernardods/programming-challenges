@@ -78,16 +78,24 @@ https://www.codeavengers.com
 https://codingbat.com/java
 
 
--> CODE CHEF -
-https://www.codechef.com
-
-
 -> CODERBYTE -
 https://www.coderbyte.com
 
 
+-> CODE CHEF -
+https://www.codechef.com
+
+
+-> CODE COMBAT
+https://codecombat.com
+
+
 -> CODESIGNAL
 https://codesignal.com
+
+
+-> CODE GYM
+https://codegym.cc
 
 
 -> CODEWARS -
@@ -108,6 +116,14 @@ https://codingdojo.org
 
 -> CODE KATA -
 http://codekata.com
+
+
+CODING STREET
+-> https://codingstreet.io
+
+
+-> CHECKIO
+https://checkio.org
 
 
 -> CYBER DOJO -
@@ -186,6 +202,10 @@ https://projecteuler.net
 https://ryanstutorials.net/programming-challenges
 
 
+-> PROGRAMMR
+http://www.programmr.com
+
+
 -> PM EXERCICES
 https://www.productmanagementexercises.com
 
@@ -198,8 +218,13 @@ http://silentteacher.toxicode.fr
 https://www.spoj.com
 
 
+-> SOLO LEARN
+https://www.sololearn.com
+
+
 -> TYPESCRIPT EXERCICES
-https://typescript-exercises.github.io/
+https://typescript-exercises.github.io
+
 
 -> TOP CODER -
 https://www.topcoder.com
