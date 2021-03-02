@@ -74,10 +74,6 @@ https://app.codesignal.com
 http://codeforces.com
 
 
--> CODEWARS -
-https://www.codewars.com
-
-
 -> CODERWALL -
 https://coderwall.com
 
