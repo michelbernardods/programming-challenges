@@ -27,7 +27,7 @@ https://www.hackerearth.com/pt-br
 https://osprogramadores.com
 
 
--> SPHERE ONLINE JUDGE
+-> SPHERE ONLINE JUDGE - 
 https://br.spoj.com
 
 
@@ -42,8 +42,8 @@ https://www.urionlinejudge.com.br
 ENGLISH
 ```
 
--> ALGO EXPERT
-https://www.algoexpert.io
+-> ALGO EXPERT -
+https://www.algoexpert.io 
 
 
 -> ASSESSMENTS | HIRE VUE - 
@@ -51,15 +51,15 @@ https://www.hirevue.com
 
 
 -> BEGINNER PROBLEMS -
-https://tausiq.wordpress.com
+https://tausiq.wordpress.com 
 
 
 -> BUTUNCLEBOB -
-http://butunclebob.com
+http://butunclebob.com 
 
 
 -> CODE FORCES -
-http://codeforces.com
+http://codeforces.com 
 
 
 -> CODERWALL -
@@ -82,15 +82,15 @@ https://www.coderbyte.com
 https://www.codechef.com
 
 
--> CODE COMBAT
+-> CODE COMBAT -
 https://codecombat.com
 
 
--> CODESIGNAL
+-> CODESIGNAL -
 https://codesignal.com
 
 
--> CODE GYM
+-> CODE GYM -
 https://codegym.cc
 
 
@@ -114,11 +114,11 @@ https://codingdojo.org
 http://codekata.com
 
 
-CODING STREET
+CODING STREET -
 -> https://codingstreet.io
 
 
--> CHECKIO
+-> CHECKIO -
 https://checkio.org
 
 
@@ -182,7 +182,7 @@ https://leetcode.com
 https://code.fandom.com
 
 
--> PRAMP
+-> PRAMP -
 https://www.pramp.com
 
 
@@ -198,11 +198,11 @@ https://projecteuler.net
 https://ryanstutorials.net/programming-challenges
 
 
--> PROGRAMMR
+-> PROGRAMMR -
 http://www.programmr.com
 
 
--> PM EXERCICES
+-> PM EXERCICES -
 https://www.productmanagementexercises.com
 
 
@@ -214,11 +214,11 @@ http://silentteacher.toxicode.fr
 https://www.spoj.com
 
 
--> SOLO LEARN
+-> SOLO LEARN -
 https://www.sololearn.com
 
 
--> TYPESCRIPT EXERCICES
+-> TYPESCRIPT EXERCICES -
 https://typescript-exercises.github.io
 
 
