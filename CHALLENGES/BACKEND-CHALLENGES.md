@@ -70,6 +70,10 @@ https://coderwall.com
 https://www.codeavengers.com
 
 
+-> CODE ABBEY - 
+https://www.codeabbey.com
+
+
 -> CODING BAT -
 https://codingbat.com/java
 
@@ -114,8 +118,8 @@ https://codingdojo.org
 http://codekata.com
 
 
-CODING STREET -
--> https://codingstreet.io
+-> CODING STREET -
+https://codingstreet.io
 
 
 -> CHECKIO -
@@ -128,6 +132,10 @@ https://cyber-dojo.org/creator/home
 
 -> DALY CODIN PROBLEM -
 https://www.dailycodingproblem.com
+
+
+-> DMOJ - 
+https://dmoj.ca/problems
 
 
 -> EDUCATION COLSYSTEM -
@@ -182,8 +190,16 @@ https://leetcode.com
 https://code.fandom.com
 
 
+-> OPEN KATTIS - 
+https://open.kattis.com
+
+
 -> PRAMP -
 https://www.pramp.com
+
+
+-> PRACTITY -
+https://practity.com
 
 
 -> PROGRAMMING TUTORIALS -
