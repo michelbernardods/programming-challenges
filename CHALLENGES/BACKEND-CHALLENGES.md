@@ -42,6 +42,10 @@ https://www.urionlinejudge.com.br
 ENGLISH
 ```
 
+-> ADVENTOFCODE 
+https://adventofcode.com
+
+
 -> ALGO EXPERT -
 https://www.algoexpert.io 
 
@@ -194,6 +198,10 @@ https://code.fandom.com
 https://open.kattis.com
 
 
+-> PERLWEEKLY CHALLENGE
+https://perlweeklychallenge.org
+
+
 -> PRAMP -
 https://www.pramp.com
 
@@ -220,6 +228,14 @@ http://www.programmr.com
 
 -> PM EXERCICES -
 https://www.productmanagementexercises.com
+
+
+-> SOALIND
+http://rosalind.info
+
+
+-> SCREEPS
+https://screeps.com
 
 
 -> SILENT TEACHER -
