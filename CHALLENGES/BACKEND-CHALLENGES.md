@@ -126,6 +126,10 @@ http://codekata.com
 https://codingstreet.io
 
 
+-> 4CLOJURE
+https://www.4clojure.com/problems
+
+
 -> CHECKIO -
 https://checkio.org
 
@@ -156,6 +160,10 @@ https://edabit.com/challenges
 
 -> FREECODECAMP -
 https://www.freecodecamp.org
+
+
+FIRE CODE
+https://www.firecode.io
 
 
 -> GEEKS FOR GEEKS -
