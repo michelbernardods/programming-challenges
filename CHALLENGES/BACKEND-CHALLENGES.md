@@ -58,6 +58,10 @@ https://www.hirevue.com
 https://tausiq.wordpress.com 
 
 
+-> BINARY SEARCH - 
+https://binarysearch.com
+
+
 -> BUTUNCLEBOB -
 http://butunclebob.com 
 
