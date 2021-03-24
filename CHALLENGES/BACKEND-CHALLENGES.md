@@ -206,6 +206,10 @@ https://katas.softwarecraftsmanship.org
 https://kata-log.rocks
 
 
+-> KAGGLE
+https://www.kaggle.com
+
+
 -> LEET CODE -
 https://leetcode.com
 
