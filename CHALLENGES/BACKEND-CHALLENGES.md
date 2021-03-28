@@ -42,7 +42,7 @@ https://www.urionlinejudge.com.br
 ENGLISH
 ```
 
--> ADVENTOFCODE 
+-> ADVENTOFCODE - 
 https://adventofcode.com
 
 
@@ -50,7 +50,7 @@ https://adventofcode.com
 https://www.algoexpert.io 
 
 
--> ASSESSMENTS | HIRE VUE - 
+-> ASSESSMENTS - 
 https://www.hirevue.com
 
 
@@ -130,7 +130,7 @@ http://codekata.com
 https://codingstreet.io
 
 
--> 4CLOJURE
+-> 4CLOJURE - 
 https://www.4clojure.com/problems
 
 
@@ -166,7 +166,7 @@ https://edabit.com/challenges
 https://www.freecodecamp.org
 
 
--> FIRE CODE
+-> FIRE CODE - 
 https://www.firecode.io
 
 
@@ -186,7 +186,7 @@ https://www.guvi.in
 https://www.hackerrank.com
 
 
--> INTERVIEWBIT
+-> INTERVIEWBIT - 
 https://www.interviewbit.com/practice
 
 
@@ -206,7 +206,7 @@ https://katas.softwarecraftsmanship.org
 https://kata-log.rocks
 
 
--> KAGGLE
+-> KAGGLE - 
 https://www.kaggle.com
 
 
@@ -222,7 +222,7 @@ https://code.fandom.com
 https://open.kattis.com
 
 
--> PERLWEEKLY CHALLENGE
+-> PERLWEEKLY CHALLENGE - 
 https://perlweeklychallenge.org
 
 
@@ -254,11 +254,11 @@ http://www.programmr.com
 https://www.productmanagementexercises.com
 
 
--> SOALIND
+-> SOALIND - 
 http://rosalind.info
 
 
--> SCREEPS
+-> SCREEPS - 
 https://screeps.com
 
 
