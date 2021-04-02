@@ -18,8 +18,13 @@ https://cssbattle.dev
 https://codepen.io/challenges
 
 
+-> CODE PIP
+https://codepip.com
+
+
 -> CODIER -
 https://codier.io
+
 
 -> CSS TRICKS -
 https://css-tricks.com/front-end-challenges
