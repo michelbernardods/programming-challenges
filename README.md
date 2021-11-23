@@ -22,9 +22,9 @@
 
 ====================================================================================
 
+<details>
+	<summary> <strong> How to contribute </strong> </summary>
 
-
-## How to contribute ?
 
 This is a totally free project that accepts contributions via pull requests on GitHub. This document is responsible for aligning contributions in accordance with established standards.
 
@@ -58,3 +58,6 @@ This project follows the pattern below of commits to keep the organization:
 - ** new ** - You added a new link
 - ** docs ** - You found an error in the documentation or added new information
 - ** style ** - Did you find any pattern problems in the links
+
+---
+</details>
