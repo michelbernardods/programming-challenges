@@ -32,7 +32,7 @@ https://br.spoj.com
 
 
 -> URI ONLINE JUDGE - 
-https://www.urionlinejudge.com.br
+https://www.beecrowd.com.br
 
 ======================================
 
