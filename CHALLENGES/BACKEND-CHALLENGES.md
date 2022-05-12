@@ -134,6 +134,10 @@ http://codekata.com
 https://codingstreet.io
 
 
+-> CMD CHALLENGE
+https://cmdchallenge.com
+
+
 -> 4CLOJURE - 
 https://www.4clojure.com/problems
 
