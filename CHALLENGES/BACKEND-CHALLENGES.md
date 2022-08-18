@@ -66,10 +66,6 @@ https://binarysearch.com
 http://butunclebob.com 
 
 
--> DATACAMP
-https://campus.datacamp.com
-
-
 -> CODE FORCES -
 http://codeforces.com 
 
@@ -156,6 +152,10 @@ https://www.kaggle.com
 
 -> DALY CODIN PROBLEM -
 https://www.dailycodingproblem.com
+
+
+-> DATACAMP
+https://campus.datacamp.com
 
 
 -> DMOJ - 
