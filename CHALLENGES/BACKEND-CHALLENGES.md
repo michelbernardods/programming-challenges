@@ -150,6 +150,10 @@ https://checkio.org
 https://cyber-dojo.org/creator/home
 
 
+-> KAGGLE LEARN
+https://www.kaggle.com
+
+
 -> DALY CODIN PROBLEM -
 https://www.dailycodingproblem.com
 
