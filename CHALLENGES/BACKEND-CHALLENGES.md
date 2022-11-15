@@ -194,6 +194,10 @@ https://www.geeksforgeeks.org
 https://www.guvi.in
 
 
+-> GURU99
+https://www.guru99.com
+
+
 -> HACKER RANK -
 https://www.hackerrank.com
 
@@ -250,6 +254,10 @@ https://practity.com
 https://www.hackerearth.com
 
 
+-> PROGRAMIZ
+https://www.programiz.com
+
+
 -> PROJECT EULER -
 https://projecteuler.net
 
@@ -292,5 +300,9 @@ https://typescript-exercises.github.io
 
 -> TOP CODER -
 https://www.topcoder.com
+
+
+-> TUTORIAL REPUBLIC
+https://www.tutorialrepublic.com
 
 =========================================================
