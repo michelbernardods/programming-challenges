@@ -261,6 +261,10 @@ https://www.pramp.com
 https://practity.com
 
 
+-> PRACTICE PYTHON - 
+https://www.practicepython.org
+
+
 -> PROGRAMMING TUTORIALS -
 https://www.hackerearth.com
 
