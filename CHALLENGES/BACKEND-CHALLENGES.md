@@ -190,8 +190,12 @@ https://code.fliprobot.com
 https://www.geeksforgeeks.org
 
 
--> REGEX CROSSWORD
+-> REGEX CROSSWORD - 
 https://regexcrossword.com
+
+
+-> RUBYQUIZ - 
+http://rubyquiz.com
 
 
 -> GUVI -
