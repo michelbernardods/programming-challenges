@@ -83,7 +83,7 @@ https://www.codeabbey.com
 
 
 -> CODING BAT -
-https://codingbat.com/java
+https://codingbat.com
 
 
 -> CODERBYTE -
