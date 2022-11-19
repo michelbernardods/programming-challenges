@@ -358,6 +358,10 @@ https://www.tutorialrepublic.com
 https://vim-adventures.com
 
 
+-> VIMGENIUS - 
+http://www.vimgenius.com
+
+
 -> 30 SECONDS OF CODE -
 https://www.30secondsofcode.org
 
