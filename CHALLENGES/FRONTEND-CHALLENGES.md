@@ -90,4 +90,8 @@ http://silentteacher.toxicode.fr
 https://100dayscss.com
 
 
+-> 30 SECONDS OF CODE
+https://www.30secondsofcode.org
+
+
 =========================================================
