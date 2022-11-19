@@ -305,4 +305,8 @@ https://www.topcoder.com
 -> TUTORIAL REPUBLIC
 https://www.tutorialrepublic.com
 
+
+-> 30 SECONDS OF CODE 
+https://www.30secondsofcode.org
+
 =========================================================
