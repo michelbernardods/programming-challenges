@@ -285,6 +285,10 @@ https://www.productmanagementexercises.com
 http://rileyjshaw.com/challenger
 
 
+-> SCALER - 
+https://www.scaler.com/topics/challenges
+
+
 -> SOALIND - 
 http://rosalind.info
 
