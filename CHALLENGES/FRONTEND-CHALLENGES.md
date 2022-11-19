@@ -74,6 +74,10 @@ https://frontloops.io
 https://github.com/felipefialho/frontend-challenges
 
 
+-> FLEXBOX FROGGY
+http://flexboxfroggy.com
+
+
 -> FLUKEOUT -
 https://flukeout.github.io
 
