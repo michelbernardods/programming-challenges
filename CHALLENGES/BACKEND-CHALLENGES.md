@@ -309,6 +309,10 @@ https://www.spoj.com
 https://www.sololearn.com
 
 
+-> SHORTCUTFOO - 
+https://www.shortcutfoo.com
+
+
 -> TYPESCRIPT EXERCICES -
 https://typescript-exercises.github.io
 
