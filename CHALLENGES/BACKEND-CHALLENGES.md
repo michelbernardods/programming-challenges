@@ -265,6 +265,10 @@ https://practity.com
 https://www.practicepython.org
 
 
+-> PYNATIVE - 
+https://pynative.com
+
+
 -> PROGRAMMING TUTORIALS -
 https://www.hackerearth.com
 
