@@ -174,6 +174,10 @@ https://exercism.io
 https://edabit.com/challenges
 
 
+-> ELEVATOR SAGA - 
+http://play.elevatorsaga.com
+
+
 -> FREECODECAMP -
 https://www.freecodecamp.org
 
@@ -218,6 +222,10 @@ https://www.interviewbit.com/practice
 https://www.jschallenger.com
 
 
+-> JSROBOT - 
+https://lab.reaal.me/jsrobot
+
+
 -> JAVASCRIPT 30 -
 https://javascript30.com
 
@@ -240,6 +248,7 @@ https://leetcode.com
 
 -> LINTCODE - 
 https://www.lintcode.com
+
 
 -> ONLINE JUDGE -
 https://code.fandom.com
