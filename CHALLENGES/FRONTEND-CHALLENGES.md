@@ -94,6 +94,10 @@ https://piccalil.li
 http://silentteacher.toxicode.fr
 
 
+-> W3SCHOOLS
+https://www.w3schools.com/css/exercise.asp
+
+
 -> 100 DAYS CSS -
 https://100dayscss.com
 
