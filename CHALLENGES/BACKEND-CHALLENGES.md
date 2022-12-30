@@ -19,6 +19,10 @@ https://desafiodocodigo.com.br
 https://github.com/codigofalado/desafio333
 
 
+-> GUIA FOCA - 
+https://www.guiafoca.org
+
+
 -> HACKEREARTH - 
 https://www.hackerearth.com/pt-br
 
