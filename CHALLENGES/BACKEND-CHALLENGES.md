@@ -138,6 +138,10 @@ http://codekata.com
 https://codingstreet.io
 
 
+-> CSES
+https://cses.fi
+
+
 -> CMD CHALLENGE
 https://cmdchallenge.com
 
