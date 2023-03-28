@@ -162,7 +162,7 @@ https://cyber-dojo.org/creator/home
 https://www.kaggle.com
 
 
--> DALY CODIN PROBLEM -
+-> DALY CODING PROBLEM -
 https://www.dailycodingproblem.com
 
 
