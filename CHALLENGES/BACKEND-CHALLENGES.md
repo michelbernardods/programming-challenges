@@ -138,11 +138,11 @@ http://codekata.com
 https://codingstreet.io
 
 
--> CSES
+-> CSES - 
 https://cses.fi
 
 
--> CMD CHALLENGE
+-> CMD CHALLENGE - =
 https://cmdchallenge.com
 
 
