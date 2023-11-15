@@ -3,10 +3,6 @@ PORTUGUESE
 ```
 
 
--> BRAVI - 
-http://blog.bravi.com.br
-
-
 -> DEVCHALLENGE -
 https://devchallenge.now.sh/challenges
 
